@@ -1,0 +1,53 @@
+h1{
+
+    color: greenyellow;
+    background-color: aqua;
+}
+
+body{
+    background-image: url(LOGO.JPG);
+}
+
+
+ body{
+    font-family: 'source code pro' , Calibri, serif;
+    margin: 0px;
+    padding: 0px;
+    nav{
+        width: 100%;
+        background-color: #424558;
+    }
+ }
+  nav ul{
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+  }
+
+nav li{
+    list-style-type: none;
+    float: left;
+}
+
+nav a{
+    display: inline-block;
+    text-decoration:none ;
+    padding: 20px 30px; 
+    color: #fff;
+}
+
+.CV-html:hover{
+    border-top: 5px solid #e44d26;
+    background-color: rgba(red, green, blue, alpha);
+}
+.Loisir-html:hover{
+    border-top: 5px solid #0070bb;
+    background-color: rgba(000,229,220,0.15);
+}
+
+.table{
+    display: table;
+    margin:0 auto;
+
+}
+
